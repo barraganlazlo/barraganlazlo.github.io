@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <title>Lazlo Barragan</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+    </head>
+    <body>
+<form method="post" action="/php/sendMail.php">
+                                <p><input id="name" type="text" name="name" placeholder="Nom"></p>
+                                <p><input id="contact-email" type="email" name="email" placeholder="Email"></p>
+                                <p><input id="subject" type="text" name="subject" placeholder="Sujet"></p>
+                                <p><textarea id="message" name="message" placeholder="Message"></textarea></p>
+                                <p><input type="submit" onClick="SendMail()" value="Envoyer"></p>
+								<p><input type="hidden" name="action" value="SendMessage"></p>
+	
+								<div class="g-recaptcha" data-sitekey="6Leeaj4UAAAAACAzy4KZUrcnvRFSboD-_LBnMEd1"></div>
+</form>
+</body>
+</html>
