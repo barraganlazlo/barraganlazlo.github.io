@@ -83,7 +83,7 @@ h4 {
 
 .main-menu.sm-clean a {
     font-size: 18px;
-	font-weight: bolder;
+    font-weight: bolder;
     line-height: 40px;
     color: #93354E;
     font-weight: 600;
@@ -397,7 +397,7 @@ h1.big-title {
 
 .portfolio-text-holder {
     position: absolute;
-    top: 30px;
+    height: 60px;
     left: 30px;
     bottom: 30px;
     right: 30px;
@@ -410,8 +410,7 @@ h1.big-title {
 
 .portfolio-text-wrapper {
     width: 90%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 8px auto;
 }
 
 .portfolio-type {
@@ -441,11 +440,7 @@ h1.big-title {
     font-weight: 700;
     font-size: 16px;
     line-height: 100%;
-    color: #8e8da9;
-}
-
-.grid-item a:hover {
-    color: #191919;
+    color: #7d7d88;
 }
 
 .more-posts-portfolio img {
@@ -1169,6 +1164,12 @@ footer {
     }
 }
 
+@media screen and (min-width: 1020px) {
+    #portfolio .entry-title {
+        font-size: 78px;
+    }
+}
+
 @media screen and (max-width: 1020px) {
     .content-1170 {
         width: 100%;
@@ -1220,7 +1221,8 @@ footer {
     }
     .section-num span {
         font-size: 50px;
-        margin-left: -15px;
+        margin-left: 15px;
+        margin-right: 10px;
     }
     .section-title-holder {
         width: 100%;
@@ -1334,8 +1336,22 @@ footer {
         cursor: pointer;
     }
     .portfolio-text-holder {
-        display: none !important;
-        opacity: 0 !important;
+        height: 40px;
+        bottom: 10px;
+        right: 10px;
+        left: 10px;
+    }
+    .portfolio-text-wrapper {
+        margin: 4px auto;
+    }
+    .portfolio-text {
+        font-size: 15px;
+        line-height: 13px;
+        letter-spacing: 2px;
+        margin-bottom: 2px;
+    }
+    .portfolio-sec-text {
+        font-size: 8px;
     }
     .main-menu {
         float: none;
