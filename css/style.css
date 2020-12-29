@@ -992,9 +992,9 @@ footer {
     display: none !important;
 }
 
-.single-portfolio article {
+/* .single-portfolio article {
     padding-top: 230px;
-}
+} */
 
 .single-portfolio article .entry-content {
     background-color: #fff;
