@@ -5,7 +5,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="CV_fr.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -84,7 +84,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0911005"
      inkscape:cx="427.54998"
-     inkscape:cy="595.27055"
+     inkscape:cy="814.77371"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -92,9 +92,9 @@
      inkscape:lockguides="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-object-midpoints="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
-     inkscape:window-x="54"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
@@ -354,12 +354,12 @@
          id="tspan884-2"
          x="57.379417"
          y="153.47725"
-         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#657076;fill-opacity:1;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none">EXPÉRIENCE </tspan><tspan
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#657076;fill-opacity:1;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none">EXPÉRIENCES </tspan><tspan
          sodipodi:role="line"
          x="57.379417"
          y="162.29669"
          style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#657076;fill-opacity:1;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-         id="tspan1179">PROFESSIONNELLE</tspan></text>
+         id="tspan1179">PROFESSIONNELLES</tspan></text>
     <line
        class="st25"
        x1="59.934166"
@@ -689,12 +689,12 @@
          style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:url(#linearGradient891);fill-opacity:1;stroke-width:0.264583">Langages</tspan><tspan
          sodipodi:role="line"
          x="57.550816"
-         y="244.09009"
+         y="244.05466"
          style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#657076;fill-opacity:1;stroke-width:0.264583"
-         id="tspan949-1-5-6-1">C, C#, C++, Java, Javascript, Python</tspan><tspan
+         id="tspan949-1-5-6-1">C, C#, C++, Python, Java,  Javascript, Go,Php </tspan><tspan
          sodipodi:role="line"
          x="57.550816"
-         y="248.18768"
+         y="248.1434"
          id="tspan944-9-6-1-8"
          style="font-size:2.82223px;text-align:center;text-anchor:middle;fill:#657076;fill-opacity:1;stroke-width:0.264583" /></text>
     <text
@@ -725,11 +725,11 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient891);fill-opacity:1">Base de données</tspan><tspan
          sodipodi:role="line"
          id="tspan1426-8"
-         x="57.775433"
-         y="277.1073"
+         x="57.693768"
+         y="277.07187"
          style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#f8baa2;fill-opacity:1"><tspan
    style="font-size:3.52778px;fill:url(#linearGradient903)"
-   id="tspan987">Elasticsearch, MySQL, MongoDB</tspan> </tspan></text>
+   id="tspan987">MySQL, Elasticsearch, MongoDB</tspan> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;display:inline;fill:#657076;fill-opacity:1;stroke:none;stroke-width:0.264583"

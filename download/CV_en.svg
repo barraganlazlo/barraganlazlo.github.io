@@ -5,7 +5,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="CV_en.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -84,7 +84,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.0911005"
      inkscape:cx="422.05095"
-     inkscape:cy="696.0862"
+     inkscape:cy="696.54445"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -92,9 +92,9 @@
      inkscape:lockguides="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-object-midpoints="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
-     inkscape:window-x="54"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
@@ -698,12 +698,12 @@
          style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:url(#linearGradient891);fill-opacity:1;stroke-width:0.264583">Programming Languages</tspan><tspan
          sodipodi:role="line"
          x="57.550816"
-         y="247.48499"
+         y="247.44955"
          style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#657076;fill-opacity:1;stroke-width:0.264583"
-         id="tspan949-1-5-6-1">C, C#, C++, Java, Javascript, Python</tspan><tspan
+         id="tspan949-1-5-6-1">C, C#, C++, Python, Java, Javascript, Go</tspan><tspan
          sodipodi:role="line"
          x="57.550816"
-         y="251.58258"
+         y="251.5383"
          id="tspan944-9-6-1-8"
          style="font-size:2.82223px;text-align:center;text-anchor:middle;fill:#657076;fill-opacity:1;stroke-width:0.264583" /></text>
     <text
@@ -734,11 +734,11 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1">Databases</tspan><tspan
          sodipodi:role="line"
          id="tspan1426-8"
-         x="57.775433"
-         y="280.5022"
+         x="57.693768"
+         y="280.46677"
          style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#f8baa2;fill-opacity:1"><tspan
    style="font-size:3.52778px;fill:url(#linearGradient903)"
-   id="tspan987">Elasticsearch, MySQL, MongoDB</tspan> </tspan></text>
+   id="tspan987">MySQL, Elasticsearch, MongoDB</tspan> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;display:inline;fill:#657076;fill-opacity:1;stroke:none;stroke-width:0.264583"
