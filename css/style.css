@@ -1214,6 +1214,9 @@ footer {
     #portfolio .entry-title {
         font-size: 78px;
     }
+	#about .entry-title{
+        font-size: 78px;
+    }
 }
 
 @media screen and (max-width: 1020px) {
